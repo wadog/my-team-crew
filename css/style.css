@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+header{
+    display: flex;
+    margin:0 300px 0 240px; 
+    justify-content: space-between;
+}
+.weare {
+    width: 450px;
+    
+}
+.team{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin:0 300px 0 240px; 
+}
+
+.worker img{ 
+    height: 427px;
+}
