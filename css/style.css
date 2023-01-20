@@ -1,22 +1,123 @@
-body{
+body {
     margin: 0;
-}
-header{
-    display: flex;
-    margin:0 300px 0 240px; 
-    justify-content: space-between;
-}
-.weare {
-    width: 450px;
-    
-}
-.team{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin:0 300px 0 240px; 
+    padding: 0;
 }
 
-.worker img{ 
-    height: 427px;
+header h1 {
+    position: absolute;
+    width: 278px;
+    height: 47px;
+    left: 243px;
+    top: 110px;
+    margin: 0;
+
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.045em;
+
+    color: #000000;
+}
+
+.weare h3 {
+    position: absolute;
+    width: 117px;
+    height: 27px;
+    left: 736px;
+    top: 110px;
+    margin: 0;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.weare p {
+
+    position: absolute;
+    width: 439px;
+    height: 87px;
+    left: 736px;
+    top: 147px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #000000;
+}
+
+.team {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 330px;
+    right: 300px;
+    left: 240px;
+}
+img{
+    width: 238px;
+}
+.member h4{
+    position: relative;
+    width: 111px;
+    height: 13px;
+    left: 195px;
+    top: 79px;
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    transform: rotate(90deg);
+}
+.member{
+    padding: 0 10px 0 10px;
+}
+.member h3{
+    margin: 0;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.up{
+    padding-top: 100px;
+}
+
+footer{
+    position: absolute;
+width: 287px;
+height: 17px;
+left: 547px;
+top: 1448px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+
+color: #A9A9A9;
 }
