@@ -1,3 +1,1 @@
-# proyecto2 para de devchallange.io
-#responsive
-#html y css
+proyecto2 para de devchallange.io, responsive, hecho con html y css.
