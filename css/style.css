@@ -118,7 +118,7 @@ footer {
 }
 @media (max-width:950px) {
     img {
-        width: 200px;
+        width: 138px;
     }
     .team{
         width: 870px;
@@ -142,10 +142,10 @@ footer {
     }
     .member h4 {
         margin: 0;
-        width: 111px;
-        height: 13px;
-        left: 157px;
-        top: 61px;
+        width: 101px;
+        left: 98px;
+        top: 57px;
+    }
     }
     .member:nth-child(even){
         padding-top: 100px;
